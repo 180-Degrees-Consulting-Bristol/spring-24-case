@@ -27,7 +27,7 @@ These questions might help you prepare.
   * How could you tidy this dataset? (Obs, note the amount of NAs)
 
 * The purpose of this data:
-  * How do you think this data is collected of generated?
+  * How do you think this data is collected or generated?
   * Why do you think this data exists?
   * Why do you think the client asked for our help?
 
